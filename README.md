@@ -13,7 +13,7 @@ You can use these commands to install, test, and run the app locally. (Not Requi
 ```
 npm install
 ```
-
+https://vsrm.dev.azure.com/testingwebapporg/_apis/public/Release/badge/a99f2e11-bf6f-4cb5-99ff-9e2a0dff63f0/1/1
 ### Test
 
 ```
